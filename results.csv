@@ -1,0 +1,19 @@
+round_epochs,val_loss,val_acc,loss,acc,lr,second_neuron,third_neuron,batch_size,epochs,dropout,optimizer,loss,last_activation,weight_regulizer
+67,0.318564147,0.897569418,0.76495564,0.921130955,2.08,1000,1100,2000,100,0.8,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+56,0.686071455,0.895833313,0.721705496,0.921875,3.07,900,1000,2000,100,0.7,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+67,0.687433004,0.892361104,0.220379785,0.912946403,2.08,900,800,2000,100,0.8,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+50,0.975896955,0.888888896,0.76104641,0.929315448,5.05,900,1100,2000,100,0.8,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+50,0.31055057,0.887152791,0.743702948,0.909226179,3.07,1200,800,2000,100,0.7,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+49,1.406704426,0.887152791,0.708454013,0.933035731,5.05,1500,1200,2000,100,0.6,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+52,1.582819819,0.885416687,0.696790993,0.944196403,4.06,1100,1000,2000,100,0.4,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+80,0.700755298,0.885416687,0.716029048,0.90625,1.09,1500,800,2000,100,0.7,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+49,3.086627007,0.885416687,0.697177052,0.933035731,5.05,1200,1200,2000,100,0.3,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+77,0.677105725,0.883680582,0.7012164,0.912202358,1.09,1200,1100,2000,100,0.5,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+48,3.473717928,0.881944418,0.697149396,0.925595224,6.04,1200,1100,2000,100,0.3,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+49,0.762680471,0.880208313,0.76514715,0.946428597,7.03,1200,800,2000,100,0.8,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+49,1.672101736,0.880208313,0.709447205,0.93601191,6.04,1100,800,2000,100,0.6,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+96,1.985500813,0.878472209,0.701976657,0.912946403,9.01,1200,1000,2000,100,0.6,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+70,0.325909704,0.875,0.707020462,0.898065448,1.09,900,1200,2000,100,0.5,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+100,0.442381769,0.803819418,0.479920805,0.793154776,0.1,1100,900,2000,100,0.5,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+100,0.456171185,0.789930582,0.46765238,0.787946403,0.1,1500,1200,2000,100,0.6,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
+22,1.082035661,0.769097209,0.698669136,0.74851191,4.06,1100,900,2000,100,0.3,<class 'keras.optimizers.Adam'>,categorical_crossentropy,softmax,None
